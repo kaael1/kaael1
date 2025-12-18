@@ -6,44 +6,68 @@ Passionate developer focused on **Artificial Intelligence** and **Software Engin
 
 ---
 
-## 📊 Active Development
-
-<div align="center">
-
-### 🚀 **349+ Contributions** in the last year | **98% Commits**
-
-*Actively building and shipping AI solutions with consistent daily commits*
-
-</div>
-
----
-
 ## 🛠️ Technical Skills
 
 ### 🤖 Artificial Intelligence & Machine Learning
-- **LLM Providers**: OpenAI, Anthropic, Google Gemini
+- **LLM Providers**: OpenAI, Anthropic, Google Gemini, Meta, Ollama
 - **RAG (Retrieval-Augmented Generation)**: Complete implementation with embeddings and semantic search
-- **Agent Development**: Google Agent Development Kit (ADK), conversational agent architecture
+- **Agent Development**: Google Agent Development Kit (ADK), OpenAI Agents, Anthropic Agents, LangChain
+- **Model Context Protocol (MCP)**: Secure authentication and integration with 3000+ tools
 - **Audio AI**: Google Gemini Live Audio API, real-time audio processing
 - **Embeddings**: OpenAI, Google embedding models
+- **Vector Databases**: Supabase (pgvector), optimized PostgreSQL
 
 ### 💻 Full-Stack Development
-- **Frontend**: Next.js 16 (App Router), React 19, TypeScript, Tailwind CSS, Web Components (Lit)
-- **Backend**: FastAPI, Node.js, Python 3.11+
-- **Databases**: PostgreSQL, Supabase, pgvector (vector search)
+- **Frontend**: Next.js 15/16 (App Router), React 19, TypeScript, Tailwind CSS, Web Components (Lit)
+- **Backend**: FastAPI, Node.js, Python 3.11+, strongly-typed APIs (tRPC)
+- **State Management**: Zustand, React Context
+- **ORM**: Drizzle ORM
+- **Desktop**: Electron
+- **Databases**: PostgreSQL, Supabase, Neon, optimized queries and indexing
 - **3D Graphics**: Three.js, WebGL, GLSL shaders
 - **Audio Processing**: Web Audio API, PCM encoding/decoding, FFT analysis
+
+### ☁️ Cloud & Data Engineering
+- **Cloud Platforms**: Azure (Databricks, Data Factory, AI Foundry, Storage), AWS, Cloudflare, Vercel
+- **Data Pipelines**: ETL/ELT pipelines, n8n automation
+- **Big Data**: PySpark, Pandas, data processing at scale
+- **Enterprise Integration**: SAP BW migration, Salesforce integration
+- **Data Modeling**: Enterprise data modeling, optimized database schemas
+- **Infrastructure**: Docker, microservices architecture, CI/CD
+
+### 📊 Analysis & Visualization
+- **Business Intelligence**: Power BI, DAX queries
+- **Analytics**: Google Analytics, PostHog
+- **Metrics**: User behavior analysis, product metrics, KPI tracking
 
 ### 🏗️ Architecture & DevOps
 - **Architecture**: Microservices, REST APIs, WebSocket, real-time streaming
 - **DevOps**: Docker, CI/CD, observability with Pino
 - **Integrations**: Confluence API, WhatsApp Business API, chatbot systems
+- **Languages**: Python, TypeScript, SQL
 
 ---
 
 ## 🚀 Featured Projects
 
-### 1. 🎙️ [Voice Agent - Real-time Gemini Audio](https://github.com/kaael1/ai-agent-voice-realtime-gemini)
+### 1. 🤖 [Quati.ai - Enterprise AI Platform](https://app.quati.ai)
+**Enterprise-grade conversational AI platform with multi-agent orchestration**
+
+Platform that enables companies to implement enterprise-grade conversational AI assistants with multi-agent orchestration, automatic context optimization, and real-time responses, eliminating the need for complex proprietary infrastructure.
+
+**Technologies**: Next.js 15, React 19, TypeScript, tRPC, Drizzle ORM, Zustand, Electron
+
+**Key Highlights**:
+- **Unified abstraction architecture** for 60+ LLM providers (OpenAI, Anthropic, Google, Meta, Ollama)
+- **Model Context Protocol (MCP) integration** with secure authentication for **3000+ tools**
+- **Advanced RAG** with vector databases and function calling
+- **Cost optimization** and strategic flexibility across multiple AI providers
+- **Intelligent automation** of complex enterprise processes
+- **Multi-agent orchestration** with automatic context optimization
+
+---
+
+### 2. 🎙️ [Voice Agent - Real-time Gemini Audio](https://github.com/kaael1/ai-agent-voice-realtime-gemini)
 **Interactive voice agent with real-time 3D visualization**
 
 Voice conversation system that integrates **Google Gemini Live Audio API** with reactive 3D visualizations. Demonstrates bidirectional audio streaming with sub-100ms latency and real-time frequency analysis.
@@ -58,7 +82,7 @@ Voice conversation system that integrates **Google Gemini Live Audio API** with 
 
 ---
 
-### 2. 💬 [SendMoney AI Agent - Context Engineering](https://github.com/kaael1/ai-agent-adk-context-engineering)
+### 3. 💬 [SendMoney AI Agent - Context Engineering](https://github.com/kaael1/ai-agent-adk-context-engineering)
 **Conversational agent for structured data collection**
 
 Intelligent system that guides users through complex processes using **Google Agent Development Kit (ADK)**. Collects and validates banking transfer information through natural conversation, with multi-language support and contextual inference.
@@ -73,7 +97,7 @@ Intelligent system that guides users through complex processes using **Google Ag
 
 ---
 
-### 3. 🏦 [Agent Hermes - RAG Pipeline for Transaction Analysis](https://github.com/kaael1/agent-ai-confluent-rag)
+### 4. 🏦 [Agent Hermes - RAG Pipeline for Transaction Analysis](https://github.com/kaael1/agent-ai-confluent-rag)
 **AI system for banking transaction analysis and explanation**
 
 Complete **RAG (Retrieval-Augmented Generation)** pipeline that analyzes financial transactions and provides humanized explanations. Integrates corporate documentation (Confluence) to enrich responses with policies and SLAs.
@@ -91,19 +115,22 @@ Complete **RAG (Retrieval-Augmented Generation)** pipeline that analyzes financi
 
 ## 🎯 Specializations
 
-- **AI Agent Architecture**: Design of scalable conversational systems
+- **AI Agent Architecture**: Design of scalable conversational systems with multi-agent orchestration
 - **RAG & Semantic Search**: Implementation of semantic search pipelines with embeddings
+- **Model Context Protocol (MCP)**: Secure integration with thousands of enterprise tools
 - **Real-time Audio Processing**: Audio streaming and real-time analysis
-- **Multi-Model AI Systems**: Agnostic architectures with support for multiple providers
+- **Multi-Model AI Systems**: Agnostic architectures with support for 60+ providers
 - **Context Engineering**: Prompt optimization and system instructions
 - **Full-Stack AI Applications**: End-to-end development of AI solutions
+- **Data Engineering**: ETL/ELT pipelines, Big Data processing, enterprise data modeling
+- **Cloud Infrastructure**: Azure, AWS, scalable cloud architectures
 
 ---
 
 ## 📈 Recent Contributions
 
 Actively working on projects that demonstrate:
-- ✅ Integration of cutting-edge AI APIs
+- ✅ Integration of cutting-edge AI APIs and protocols (MCP)
 - ✅ Scalable and production-ready architectures
 - ✅ Innovative solutions for real-world problems
 - ✅ Clean, documented, and type-safe code
