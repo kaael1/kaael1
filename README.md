@@ -6,12 +6,15 @@ Passionate developer focused on **Artificial Intelligence** and **Software Engin
 
 ---
 
-## 📊 Contribution Statistics
+## 📊 Active Development
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaael1&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
-![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=kaael1&theme=radical&hide_border=true&background=0D1117)
+<div align="center">
 
-**Actively contributing** with daily commits on AI/ML projects, developing innovative solutions that combine cutting-edge technologies with scalable architectures.
+### 🚀 **349+ Contributions** in the last year | **98% Commits**
+
+*Actively building and shipping AI solutions with consistent daily commits*
+
+</div>
 
 ---
 
