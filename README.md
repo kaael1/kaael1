@@ -16,7 +16,7 @@ I build production-grade AI systems that connect LLMs to data, tools, automation
 
 ## About
 
-AI Engineer with 6+ years of experience across software engineering, data systems, analytics, automation, and production-grade intelligent applications.
+AI Engineer with 7+ years of experience across software engineering, data systems, analytics, automation, and production-grade intelligent applications.
 
 My strongest fit is applied AI: turning ambiguous business problems into reliable systems that can be deployed, operated, measured, and improved. I work end to end across agents, RAG, MCP-based integrations, full-stack product engineering, data infrastructure, cloud delivery, observability, and enterprise automation.
 
