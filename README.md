@@ -133,24 +133,13 @@ RAG pipeline for analyzing and explaining financial transactions using corporate
 
 ---
 
-## Experience Snapshot
+## How I Work
 
-**SEIDOR Brasil - Specialist AI Engineer**  
-Designing and building enterprise AI solutions with agents, automation, internal integrations, full-stack applications, document intelligence, spreadsheet analysis, queues, workers, and production infrastructure.
-
-**ArcelorMittal - Data and AI Specialist**  
-Led initiatives across data engineering, BI, analytics, data science, Big Data, SAP BW to Azure migration, Salesforce ETL pipelines, product analytics, Power BI, DAX, and enterprise data modeling.
-
-**Banco do Brasil / Alocat - Web Development Intern**  
-Built internal web tools, workflow automations, REST API integrations, and business-facing applications using JavaScript, PHP, and web technologies.
-
----
-
-## Resume
-
-- [English resume](curriculo-match-vagas/resume-mikael-en.pdf)
-- [Curriculo em Portugues](curriculo-match-vagas/curriculo-mikael-pt.pdf)
-- [Profile and role-positioning notes](curriculo-match-vagas/notas-de-match.md)
+- I design AI systems around real workflows, not isolated demos.
+- I care about grounding, traceability, evaluation, permissions, and operational reliability.
+- I move comfortably across product, frontend, backend, data, cloud, and automation.
+- I prefer small, well-instrumented systems that can evolve safely over time.
+- I like turning messy requirements into tools that people can actually use every day.
 
 ---
 
@@ -165,4 +154,3 @@ Senior AI Engineer, Applied AI Engineer, AI Product Engineer, AI Deployment Engi
 - LinkedIn: [linkedin.com/in/mikaelluca](https://www.linkedin.com/in/mikaelluca/)
 - GitHub: [github.com/kaael1](https://github.com/kaael1)
 - Email: [mikaelluca1@gmail.com](mailto:mikaelluca1@gmail.com)
-
